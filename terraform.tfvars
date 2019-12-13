@@ -1,0 +1,7 @@
+region          = "asia-south1"
+gcp_project     = "terraform-261606"
+credentials     = "terraform-261606-b56230ae1efb.json"
+name            = "dev"
+subnet_cidr_public = "10.0.1.0/28"
+subnet_cidr_private = "10.0.2.0/28"
+zone = "asia-south1-c"
